@@ -9,3 +9,4 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitkovsky21)](https://github.com/vitkovsky21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitkovsky21)](https://github.com/vitkovsky21)
